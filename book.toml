@@ -1,0 +1,7 @@
+[book]
+title = "Billy's Blog"
+author = "Prince Billy Graham Karmoker"
+description = "This book is written for my FANG(Facebook, Amazon, Netfix, Google) interview preperation and upgrading my problem solving skills."
+language = "en"
+multilingual = true
+src = "src"
